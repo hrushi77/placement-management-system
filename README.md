@@ -1,2 +1,2 @@
 # Placement-management-system
-# hrushikesh sawant, zaid qureshi, ashwin tiwari
+### hrushikesh sawant, zaid qureshi, ashwin tiwari
